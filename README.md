@@ -1,27 +1,30 @@
-<!-- Funny Monkey GIF Header -->
 <p align="center">
-  <img src="https://media.tenor.com/8B8GqkXn6k0AAAAC/coding-scaler-create-impact.gif" width="400" alt="Funny Coding Monkey"/>
-</p>
-
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Omar+Rehan;Frontend+Developer+%7C+React+Lover;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://i.imgur.com/hNGvhn6.gif" alt="Funny Coder" />
 </p>
 
 ---
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+Omar+Rehan's+Profile!;" alt="Typing SVG" />
+  </a>
+</h1>
 
 ## 🚀 About Me
 - 🎓 Computer & Systems Engineering graduate, Ain Shams University  
-- 💻 Frontend Developer (React, JavaScript, CSS, HTML)  
+- 🧑‍💻 Software Engineer | Frontend Developer (React, JavaScript, CSS, HTML)  
 - 🐍 Python Enthusiast  
 - 📧 Email: **omarrehan7777777@gmail.com**  
 - 📱 WhatsApp: **+20 1017231237**  
+- 🔗 LinkedIn: [linkedin.com/in/omarrehan](https://www.linkedin.com/in/omarrehan/)  
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,sass,tailwind,python,mongodb" height="60" />
+  <br></br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarRehan777&layout=compact&theme=tokyonight&langs_count=8" height="220"/>
 </p>
 
 ---
@@ -40,20 +43,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarRehan777&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarRehan777&show_icons=true&theme=tokyonight" height="200" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarRehan777&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarRehan777&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarRehan777&theme=tokyonight" height="200" />
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/OmarRehan777/OmarRehan777/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
