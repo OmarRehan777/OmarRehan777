@@ -24,8 +24,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,sass,tailwind,python,mongodb" height="60" />
   <br></br>
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarRehan777&layout=compact&theme=tokyonight&langs_count=8&card_width=920&text_bold=true" height="120"/>
+<p align="center">
+  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarRehan777&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=6" alt="Languages" />
+</p>
+
 </p>
 
 </p>
