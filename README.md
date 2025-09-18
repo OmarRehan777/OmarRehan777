@@ -1,30 +1,59 @@
-# Hi there 👋, I'm Omar Rehan  
+<!-- Funny Monkey GIF Header -->
+<p align="center">
+  <img src="https://media.tenor.com/8B8GqkXn6k0AAAAC/coding-scaler-create-impact.gif" width="400" alt="Funny Coding Monkey"/>
+</p>
 
-🎓 **Software Engineer | Frontend Developer (React)**  
-💻 Passionate about crafting modern, responsive, and user-friendly web applications.  
-🌱 Focused on **React.js** and Frontend Development, with strong foundations in Computer Engineering.  
-✨ Big believer in clean code, simplicity, and continuous learning.  
-
----
-
-## 🛠️ Tech Stack & Tools  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff&style=flat)  
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Omar+Rehan;Frontend+Developer+%7C+React+Lover;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📊 GitHub Stats  
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarRehan777&show_icons=true&theme=tokyonight)  
-
----
-
-## 📫 Contact Me  
+## 🚀 About Me
+- 🎓 Computer & Systems Engineering graduate, Ain Shams University  
+- 💻 Frontend Developer (React, JavaScript, CSS, HTML)  
+- 🐍 Python Enthusiast  
 - 📧 Email: **omarrehan7777777@gmail.com**  
-- 💬 WhatsApp: **+20 101 723 1237**  
-- 🌐 LinkedIn: [linkedin.com/in/omar-rehan](https://www.linkedin.com/in/omar-rehan)  
-- 💻 GitHub: [github.com/OmarRehan777](https://github.com/OmarRehan777)  
+- 📱 WhatsApp: **+20 1017231237**  
+
+---
+
+## 🛠️ Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,figma" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 📝 Sticky Notes App
+- A simple, elegant sticky notes application built with **React + LocalStorage**  
+- Live Demo 👉 [View Project](https://github.com/OmarRehan777/StickyNotesApp)  
+
+### ✅ To-Do List App
+- Minimalist task management app built with **React + MUI**  
+- Live Demo 👉 [View Project](https://github.com/OmarRehan777/TODO_LIST)  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarRehan777&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarRehan777&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarRehan777&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/OmarRehan777/OmarRehan777/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
