@@ -22,9 +22,11 @@
 
 ## 🛠️ Skills & Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,sass,tailwind,python,mongodb" height="60" />
-  <br></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarRehan777&layout=compact&theme=tokyonight&langs_count=8" height="220"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,sass,tailwind,python,mongodb&perline=9" height="60" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarRehan777&layout=compact&theme=tokyonight&langs_count=8&card_width=920" height="220"/>
 </p>
 
 ---
@@ -43,11 +45,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarRehan777&show_icons=true&theme=tokyonight" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarRehan777&show_icons=true&theme=tokyonight&card_width=920" height="200" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarRehan777&theme=tokyonight" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarRehan777&theme=tokyonight&card_width=920" height="200" />
 </p>
 
 ---
