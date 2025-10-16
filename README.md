@@ -42,7 +42,7 @@
 
 ### ✅ To-Do List App
 - Minimalist task management app built with **React + MUI**  
-- Live Demo 👉 [View Project](omarrehan777.github.io/todo-list-react/)  
+- Live Demo 👉 [View Project](https://omarrehan777.github.io/todo-list-react/)  
 
 ---
 
