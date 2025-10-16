@@ -38,7 +38,7 @@
 
 ### 📝 Sticky Notes App
 - A simple, elegant sticky notes application built with **React + LocalStorage**  
-- Live Demo 👉 [View Project](https://github.com/OmarRehan777/StickyNotesApp)  
+- Live Demo 👉 [View Project](https://omarrehan777.github.io/Sticky-wall/)  
 
 ### ✅ To-Do List App
 - Minimalist task management app built with **React + MUI**  
