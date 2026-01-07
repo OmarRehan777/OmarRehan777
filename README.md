@@ -37,7 +37,7 @@
 ## 🌟 Featured Projects
 
 ### 📝 Sticky Notes App
-- A simple, elegant sticky notes application built with **React + LocalStorage**  
+- A simple, elegant sticky notes application built with **Vanilla JS + LocalStorage**  
 - Live Demo 👉 [View Project](https://omarrehan777.github.io/Sticky-wall/)  
 
 ### ✅ To-Do List App
