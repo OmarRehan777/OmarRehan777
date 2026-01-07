@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 - 🎓 Computer & Systems Engineering graduate, Ain Shams University  
-- 🧑‍💻 Software Engineer | Frontend Developer (React, JavaScript, CSS, HTML)  
+- 🧑‍💻 Software Engineer | Frontend Developer (React, Next.js)  
 - 🐍 Python Enthusiast  
 - 📧 Email: **omarrehan7777777@gmail.com**  
 - 📱 WhatsApp: **+20 1017231237**  
@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Skills & Languages
+## 🛠️ Core Skills
 
 <p align="center">
 
@@ -33,40 +33,35 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </p>
+
+---
+
+## 🎯 Currently Focusing On
+- Advanced React Patterns  
+- Next.js App Router & Performance Optimization  
+- Clean UI Architecture & Reusable Components  
 
 ---
 
 ## 🌟 Featured Projects
 
 ### 📝 Sticky Notes App
-- A simple, elegant sticky notes application built with **Vanilla JS + LocalStorage**  
+- Simple, elegant sticky notes application using **Vanilla JS + LocalStorage**  
 - Live Demo 👉 [View Project](https://omarrehan777.github.io/Sticky-wall/)  
 
 ### ✅ To-Do List App
-- Minimalist task management app built with **React + MUI**  
+- Minimal task management app built with **React + MUI**  
 - Live Demo 👉 [View Project](https://omarrehan777.github.io/todo-list-react/)  
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=OmarRehan777&show_icons=true&theme=tokyonight" 
-    height="200" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=OmarRehan777&theme=tokyonight" 
-    height="200" 
-  />
+  <i>Open to Frontend / Software Engineering opportunities.</i>
 </p>
