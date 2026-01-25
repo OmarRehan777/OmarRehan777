@@ -1,31 +1,33 @@
 <p align="center">
-  <img src="https://i.imgur.com/hNGvhn6.gif" alt="Funny Coder" />
+<img src="https://i.imgur.com/hNGvhn6.gif" alt="Funny Coder" />
 </p>
 
 ---
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+Omar+Rehan's+Profile!;" 
-      alt="Typing SVG" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+Omar+Rehan's+Profile!;" 
+    alt="Typing SVG" 
     />
-  </a>
+</a>
 </h1>
 
 ---
 
-## 🚀 About Me
-- 🎓 Computer & Systems Engineering graduate, Ain Shams University  
-- 🧑‍💻 Software Engineer | Frontend Developer (React, Next.js)  
-- 🐍 Python Enthusiast  
-- 📧 Email: **omarrehan7777777@gmail.com**  
-- 📱 WhatsApp: **+20 1017231237**  
-- 🔗 LinkedIn: [linkedin.com/in/omarrehan](https://www.linkedin.com/in/omarrehan/)  
+🚀 About Me
+- 🎓 Computer & Systems Engineering graduate (Ain Shams University)
+- 🧠 Strong engineering background with solid foundations in Computer Science concepts
+- 🧑‍💻 Frontend Software Engineer specializing in **React, Next.js, and Tailwind CSS**
+- ⚙️ Interested in clean architecture, scalable UI systems, and real-world web applications
+- 🐍 Python Enthusiast
+- 📧 Email: **omarrehan7777777@gmail.com**
+- 📱 WhatsApp: **+20 1159018058**
+- 🔗 LinkedIn: [linkedin.com/in/omarrehan](https://www.linkedin.com/in/omarrehan/)
 
 ---
 
-## 🛠️ Core Skills
+🛠️ Core Skills
 
 <p align="center">
 
@@ -43,25 +45,38 @@
 
 ---
 
-## 🎯 Currently Focusing On
-- Advanced React Patterns  
-- Next.js App Router & Performance Optimization  
-- Clean UI Architecture & Reusable Components  
+🎯 Currently Focusing On
+- Advanced React & Component Architecture
+- Next.js App Router & performance-oriented patterns
+- Building scalable, real-world admin dashboards
 
 ---
 
-## 🌟 Featured Projects
+🌟 Featured Projects
 
-### 📝 Sticky Notes App
-- Simple, elegant sticky notes application using **Vanilla JS + LocalStorage**  
-- Live Demo 👉 [View Project](https://omarrehan777.github.io/Sticky-wall/)  
+🧾 Order Management Dashboard (Featured)
+- Scalable admin dashboard for managing and reviewing orders
+- Built with **Next.js App Router** and **Tailwind CSS**
+- Focused on clean architecture, responsive UI, and real-world admin workflows
+- Includes order listing, order details view, and adaptive navigation
 
-### ✅ To-Do List App
-- Minimal task management app built with **React + MUI**  
-- Live Demo 👉 [View Project](https://omarrehan777.github.io/todo-list-react/)  
+👉 Repository: https://github.com/OmarRehan777/order-management-dashboard
+
+---
+
+📝 Sticky Notes App
+- Simple sticky notes application using **Vanilla JavaScript**
+- Data persistence with **LocalStorage**
+👉 Live Demo: https://omarrehan777.github.io/Sticky-wall/
+
+---
+
+✅ To-Do List App
+- Minimal task management app built with **React + MUI**
+👉 Live Demo: https://omarrehan777.github.io/todo-list-react/
 
 ---
 
 <p align="center">
-  <i>Open to Frontend / Software Engineering opportunities.</i>
+<i>Open to Frontend / Software Engineering opportunities.</i>
 </p>
