@@ -6,24 +6,32 @@
 
 <h1 align="center">
 <a href="https://git.io/typing-svg">
-    <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+Omar+Rehan's+Profile!;" 
-    alt="Typing SVG" 
+    <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+Omar+Rehan's+Profile!;"
+    alt="Typing SVG"
     />
 </a>
 </h1>
 
 ---
 
+🌐 Personal Portfolio
+👉 https://omar-portfolio-3y3w.vercel.app/
+
+A live showcase of my projects, frontend engineering skills,
+and real-world dashboard-focused work.
+
+---
+
 🚀 About Me
 - 🎓 Computer & Systems Engineering graduate (Ain Shams University)
 - 🧠 Strong engineering background with solid foundations in Computer Science concepts
-- 🧑‍💻 Frontend Software Engineer specializing in **React, Next.js, and Tailwind CSS**
+- 🧑‍💻 Frontend Software Engineer specializing in React, Next.js, and Tailwind CSS
 - ⚙️ Interested in clean architecture, scalable UI systems, and real-world web applications
-- 🐍 Python Enthusiast
-- 📧 Email: **omarrehan7777777@gmail.com**
-- 📱 WhatsApp: **+20 1159018058**
-- 🔗 LinkedIn: [linkedin.com/in/omarrehan](https://www.linkedin.com/in/omarrehan/)
+- 🐍 Python enthusiast with strong problem-solving skills
+- 📧 Email: omarrehan7777777@gmail.com
+- 📱 WhatsApp: +20 1159018058
+- 🔗 LinkedIn: https://www.linkedin.com/in/omarrehan/
 
 ---
 
@@ -46,33 +54,39 @@
 ---
 
 🎯 Currently Focusing On
-- Advanced React & Component Architecture
-- Next.js App Router & performance-oriented patterns
+- Advanced React patterns and component architecture
+- Next.js App Router and performance-oriented frontend patterns
 - Building scalable, real-world admin dashboards
 
 ---
 
-🌟 Featured Projects
+🌟 Featured Work
 
-🧾 Order Management Dashboard (Featured)
+🌐 Personal Portfolio (Featured)
+- Live portfolio showcasing selected projects and frontend engineering work
+- Focused on real-world dashboards, responsive UI, and modern frontend practices
+👉 Live: https://omar-portfolio-3y3w.vercel.app/
+
+---
+
+🧾 Order Management Dashboard
 - Scalable admin dashboard for managing and reviewing orders
-- Built with **Next.js App Router** and **Tailwind CSS**
+- Built with Next.js App Router and Tailwind CSS
 - Focused on clean architecture, responsive UI, and real-world admin workflows
 - Includes order listing, order details view, and adaptive navigation
-
 👉 Repository: https://github.com/OmarRehan777/order-management-dashboard
 
 ---
 
 📝 Sticky Notes App
-- Simple sticky notes application using **Vanilla JavaScript**
-- Data persistence with **LocalStorage**
+- Simple sticky notes application using Vanilla JavaScript
+- Data persistence with LocalStorage
 👉 Live Demo: https://omarrehan777.github.io/Sticky-wall/
 
 ---
 
 ✅ To-Do List App
-- Minimal task management app built with **React + MUI**
+- Minimal task management app built with React and Material UI
 👉 Live Demo: https://omarrehan777.github.io/todo-list-react/
 
 ---
