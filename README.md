@@ -65,7 +65,7 @@ and real-world dashboard-focused work.
 🌐 Personal Portfolio (Featured)
 - Live portfolio showcasing selected projects and frontend engineering work
 - Focused on real-world dashboards, responsive UI, and modern frontend practices
-- 👉 Live: https://omar-portfolio-3y3w.vercel.app/
+- 👉 Live Demo: https://omar-portfolio-3y3w.vercel.app/
 
 ---
 
@@ -74,7 +74,7 @@ and real-world dashboard-focused work.
 - Built with Next.js App Router and Tailwind CSS
 - Focused on clean architecture, responsive UI, and real-world admin workflows
 - Includes order listing, order details view, and adaptive navigation
-- 👉 Live: https://order-management-dashboard-sigma.vercel.app/
+- 👉 Live Demo: https://order-management-dashboard-sigma.vercel.app/
 
 ---
 
