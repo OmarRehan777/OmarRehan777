@@ -74,7 +74,7 @@ and real-world dashboard-focused work.
 - Built with Next.js App Router and Tailwind CSS
 - Focused on clean architecture, responsive UI, and real-world admin workflows
 - Includes order listing, order details view, and adaptive navigation
-👉 Repository: https://github.com/OmarRehan777/order-management-dashboard
+👉 Live: https://order-management-dashboard-sigma.vercel.app/
 
 ---
 
